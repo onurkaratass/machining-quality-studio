@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spc-manufacturing"
+version = "0.1.0"
+description = "Açık kaynaklı, talaşlı imalat ve seri üretim odaklı İstatistiksel Proses Kontrolü (SPC) kütüphanesi."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Onur"}
+]
+keywords = [
+    "spc",
+    "statistical-process-control",
+    "manufacturing",
+    "cnc",
+    "machining",
+    "quality-control",
+    "cpk",
+    "process-capability"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Manufacturing",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering",
+]
+dependencies = [
+    "numpy>=1.22.0",
+    "scipy>=1.9.0",
+    "matplotlib>=3.5.0",
+    "pandas>=1.4.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/onur/spc-manufacturing"
+Repository = "https://github.com/onur/spc-manufacturing.git"

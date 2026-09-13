@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.class
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.venv
+env/
+venv/
+examples/*.png
+*.png
+*.svg
