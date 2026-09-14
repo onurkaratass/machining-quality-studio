@@ -14,6 +14,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/preview.png" alt="Machining & Quality Studio Dashboard" width="850" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</p>
+
 ## 📌 Entegre Modüller
 
 ### 1. 📊 İstatistiksel Proses Kontrol (SPC & Kalite)
