@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform Windows">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" alt="Status">
-  <a href="https://doi.org/10.5281/zenodo.22750243"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22750243.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.22750243"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22750243-blue.svg" alt="DOI"></a>
 </p>
 
 
